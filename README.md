@@ -1,6 +1,6 @@
 #  [Udemy](https://www.udemy.com/) :mortar_board:
 ## Game Development Courses :computer:
-> C#/Unity/Visual Studio                                         
+> C# Unity 2D Visual Studio                                         
 1. **Complete C# Unity Game Developer 2D**                             
 * - [x] *Complete C# Unity Game Developer 2D*
 
